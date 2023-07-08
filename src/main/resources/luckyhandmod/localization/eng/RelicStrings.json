@@ -1,0 +1,11 @@
+{
+  "${modID}:TungstenBranchCandle": {
+    "NAME": "Tungsten Branch Candle",
+    "FLAVOR": "Good luck to you.",
+    "DESCRIPTIONS": [
+      "#yUnplayable #rCurse cards can now be played. Whenever you play a #rCurse , #yExhaust it add a random card into you hand. At the start of your turn, draw #b",
+      " additional cards and gain ",
+      "."
+    ]
+  }
+}
